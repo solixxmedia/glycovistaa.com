@@ -1100,7 +1100,7 @@ a {
   }
 }
 .cid-tmzZsiiIXk .mbr-section-title {
-  text-align: left;
+  text-align: justify;
   color: #e43f3f;
 }
 .cid-tmzZsiiIXk .mbr-text,
@@ -1155,39 +1155,6 @@ a {
 }
 .cid-vrTkgI2ESk img {
   width: 100%;
-}
-.cid-vrTkE7MTyC {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-vrTl77AHWj {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-vrTlmylzSw {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-vrTlNgEvM5 {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-vrTlNgEvM5 .mbr-text {
-  text-align: justify;
-}
-.cid-vrTlP826Gg {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-vrTlVWXmpF {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
 }
 .cid-vrTm2ADzPf {
   padding-top: 0rem;
@@ -1370,15 +1337,15 @@ a {
 .cid-vrTEqzLUzX .card-subtitle {
   text-align: justify;
 }
-.cid-vrTEeh6aU0 {
+.cid-vsyYdtXpa5 {
   padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #e43f3f;
 }
-.cid-vrTEeh6aU0 .mbr-fallback-image.disabled {
+.cid-vsyYdtXpa5 .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-vrTEeh6aU0 .mbr-fallback-image {
+.cid-vsyYdtXpa5 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1387,7 +1354,7 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-vrTEeh6aU0 .mbr-section-title {
+.cid-vsyYdtXpa5 .mbr-section-title {
   color: #ffffff;
 }
 .cid-tBZlr2ESDv {
@@ -1554,6 +1521,31 @@ a {
   border-radius: 50%;
   margin-top: 5px;
   content: "✓";
+}
+.cid-vsz0mdj9JW {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #e43f3f;
+}
+.cid-vsz0mdj9JW .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vsz0mdj9JW .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vsz0mdj9JW .mbr-section-title {
+  color: #ffffff;
+}
+.cid-vsz0FzgEqp {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-tBu3dBvZQn {
   padding-top: 2rem;
